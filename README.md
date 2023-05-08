@@ -1,10 +1,10 @@
+![Header](https://github.com/Hem1x/Hem1x/blob/main/assets/pixel_theme.gif)
+
 ## I'm a beginner Front-End developer 
-#### Hi there! My name is **Alex**, and I'm a beginner Front-End developer in React. I love building interactive web applications and experimenting with new technologies.
-<br>
+Hi there! My name is **Alex**, and I'm a beginner Front-End developer in React. I love building interactive web applications and experimenting with new technologies.
 
-#### If you have any questions or proposals for collaboration, please feel free to reach out to me!
+If you have any questions or proposals for collaboration, please feel free to reach out to me!
 <br>
-
 
 ## Use
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
