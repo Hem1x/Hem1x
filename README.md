@@ -25,7 +25,7 @@ If you have any questions or proposals for collaboration, please feel free to re
 <br>
 
 ## GitHub stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hem1x&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hem1x&show_icons=true&theme=tokyonight)](https://github.com/Hem1x/github-readme-stats)
 <br>
 
 ## Socials:
