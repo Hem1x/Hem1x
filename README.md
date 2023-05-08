@@ -1,23 +1,38 @@
-![Header](https://github.com/Hem1x/Hem1x/blob/main/assets/BlueAmazingIrishterrier-size_restricted.gif)
-
 ## I'm a beginner Front-End developer 
+#### Hi there! My name is **Alex**, and I'm a beginner Front-End developer in React. I love building interactive web applications and experimenting with new technologies.
+<br>
+
+#### If you have any questions or proposals for collaboration, please feel free to reach out to me!
+<br>
+
 
 ## Use
-![HTML](https://img.shields.io/badge/HTML-000?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-000?style=flat-square&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=Javascript)
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/Redux-000?style=flat-square&logo=redux&logoColor=764ABC)
-![npm](https://img.shields.io/badge/npm-000?style=flat-square&logo=npm)
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=Javascript)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=764ABC)
+![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm)
+<br>
 
-## Learn
-![Webpack](https://img.shields.io/badge/Webpack-002031?style=flat-square&logo=webpack&logoColor=4285F4)
-![yarn](https://img.shields.io/badge/yarn-002031?style=flat-square&logo=yarn)
-![Typescript](https://img.shields.io/badge/Typescript-002031?style=flat-square&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-002031?style=flat-square&logo=nodedotjs)
-![Nest.js](https://img.shields.io/badge/Nest.js-002031?style=flat-square&logo=nestjs)
+## Learning...
+![Webpack](https://img.shields.io/badge/Webpack-002031?style=for-the-badge&logo=webpack&logoColor=4285F4)
+![yarn](https://img.shields.io/badge/yarn-002031?style=for-the-badge&logo=yarn)
+![Typescript](https://img.shields.io/badge/Typescript-002031?style=for-the-badge&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-002031?style=for-the-badge&logo=nodedotjs)
+![Nest.js](https://img.shields.io/badge/Nest.js-002031?style=for-the-badge&logo=nestjs)
+<br>
 
-GitHub stat
+## GitHub stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hem1x&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-follow me
+## Socials:
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)
+![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)
+![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)
+
+![Header](https://github.com/Hem1x/Hem1x/blob/main/assets/BlueAmazingIrishterrier-size_restricted.gif)
+![Header](https://github.com/Hem1x/Hem1x/blob/main/assets/do-you-know-the-way-dance.gif)
