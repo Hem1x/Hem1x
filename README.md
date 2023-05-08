@@ -14,10 +14,11 @@ If you have any questions or proposals for collaboration, please feel free to re
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm)
+![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=webpack&logoColor=4285F4)
 <br>
 
 ## Learning...
-![Webpack](https://img.shields.io/badge/Webpack-002031?style=for-the-badge&logo=webpack&logoColor=4285F4)
+
 ![yarn](https://img.shields.io/badge/yarn-002031?style=for-the-badge&logo=yarn)
 ![Typescript](https://img.shields.io/badge/Typescript-002031?style=for-the-badge&logo=typescript)
 ![Node.js](https://img.shields.io/badge/Node.js-002031?style=for-the-badge&logo=nodedotjs)
