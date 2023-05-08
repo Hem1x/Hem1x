@@ -2,8 +2,11 @@
 
 ## I'm a beginner Front-End developer 
 
-languages
+## Use
+
 
 learning
+
+GitHub stat
 
 follow me
