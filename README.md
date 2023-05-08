@@ -1,4 +1,4 @@
-<img src="https://github.com/Hem1x/Hem1x/blob/main/assets/pixel_theme.gif" height="200"> 
+<img src="https://github.com/Hem1x/Hem1x/blob/main/assets/pixel_theme.gif" height="250" width="100%"> 
 
 ## I'm a beginner Front-End developer 
 Hi there! My name is **Alex**, and I'm a beginner Front-End developer in React. I love building interactive web applications and experimenting with new technologies.
