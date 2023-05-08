@@ -34,4 +34,9 @@
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)
 ![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)
 
-<img src="https://github.com/Hem1x/Hem1x/blob/main/assets/BlueAmazingIrishterrier-size_restricted.gif" width="300"> <img src="https://github.com/Hem1x/Hem1x/blob/main/assets/do-you-know-the-way-dance.gif" width="300">
+
+## My current mood
+<p style="text-align: center;">
+    <img src="https://github.com/Hem1x/Hem1x/blob/main/assets/BlueAmazingIrishterrier-size_restricted.gif" width="300" style="margin-right: 20px;"> 
+    <img src="https://github.com/Hem1x/Hem1x/blob/main/assets/do-you-know-the-way-dance.gif" width="300">
+</p>
