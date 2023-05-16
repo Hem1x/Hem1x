@@ -14,10 +14,7 @@ If you have any questions or proposals for collaboration, please feel free to re
 ![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=webpack&logoColor=4285F4)
 ![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm)
 
-<br>
-
 ## Learning...
-
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-002031?style=for-the-badge&logo=tailwindcss)
 ![Typescript](https://img.shields.io/badge/Typescript-002031?style=for-the-badge&logo=typescript)
 ![Node.js](https://img.shields.io/badge/Node.js-002031?style=for-the-badge&logo=nodedotjs)
