@@ -33,10 +33,3 @@ If you have any questions or proposals for collaboration, please feel free to re
 ![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)
 ![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)
-
-
-## My current mood
-<p style="text-align: center;">
-    <img src="https://github.com/Hem1x/Hem1x/blob/main/assets/BlueAmazingIrishterrier-size_restricted.gif" width="300" style="margin-right: 20px;"> 
-    <img src="https://github.com/Hem1x/Hem1x/blob/main/assets/do-you-know-the-way-dance.gif" width="300">
-</p>
