@@ -19,7 +19,7 @@ If you have any questions or proposals for collaboration, please feel free to re
 ![Typescript](https://img.shields.io/badge/Typescript-002031?style=for-the-badge&logo=typescript)
 ![Node.js](https://img.shields.io/badge/Node.js-002031?style=for-the-badge&logo=nodedotjs)
 ![Nest.js](https://img.shields.io/badge/Nest.js-002031?style=for-the-badge&logo=nestjs)
-![Next.js](https://img.shields.io/badge/Next.js-002031?style=for-the-badge&logo=nextjs)
+![Next.js](https://img.shields.io/badge/Next.js-002031?style=for-the-badge&logo=nextdotjs)
 ![Redux](https://img.shields.io/badge/Redux-002031?style=for-the-badge&logo=redux)
 ![yarn](https://img.shields.io/badge/yarn-002031?style=for-the-badge&logo=yarn)
 <br>
