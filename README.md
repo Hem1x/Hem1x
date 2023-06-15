@@ -11,13 +11,15 @@ If you have any questions or proposals for collaboration, please feel free to re
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-000?style=for-the-badge&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=Javascript)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=webpack&logoColor=4285F4)
+![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm)
+
 ![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
 ![Typescript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=webpack&logoColor=4285F4)
-![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm)
+
 
 ## Learning...
 ![Nest.js](https://img.shields.io/badge/Nest.js-002031?style=for-the-badge&logo=nestjs)
