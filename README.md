@@ -14,6 +14,7 @@ If you have any questions or proposals for collaboration, please feel free to re
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=webpack&logoColor=4285F4)
 ![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm)
+![yarn](https://img.shields.io/badge/yarn-000?style=for-the-badge&logo=yarn)
 
 
 
@@ -25,7 +26,7 @@ If you have any questions or proposals for collaboration, please feel free to re
 
 ![Nest.js](https://img.shields.io/badge/Nest.js-002031?style=for-the-badge&logo=nestjs)
 ![Next.js](https://img.shields.io/badge/Next.js-002031?style=for-the-badge&logo=nextdotjs)
-![yarn](https://img.shields.io/badge/yarn-002031?style=for-the-badge&logo=yarn)
+
 <br>
 
 ## GitHub stats
