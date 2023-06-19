@@ -18,7 +18,6 @@ If you have any questions or proposals for collaboration, please feel free to re
 
 
 ## Learning...
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-002031?style=for-the-badge&logo=tailwindcss)
 ![Redux](https://img.shields.io/badge/Redux-002031?style=for-the-badge&logo=redux)
 ![Typescript](https://img.shields.io/badge/Typescript-002031?style=for-the-badge&logo=typescript)
 ![Node.js](https://img.shields.io/badge/Node.js-002031?style=for-the-badge&logo=nodedotjs)
