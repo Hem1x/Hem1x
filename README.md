@@ -9,6 +9,7 @@ If you have any questions or proposals for collaboration, please feel free to re
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=Javascript)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
 ![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-000?style=for-the-badge&logo=tailwindcss)
 ![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=webpack&logoColor=4285F4)
@@ -19,7 +20,6 @@ If you have any questions or proposals for collaboration, please feel free to re
 
 
 ## Learning...
-![Redux](https://img.shields.io/badge/Redux-002031?style=for-the-badge&logo=redux)
 ![Typescript](https://img.shields.io/badge/Typescript-002031?style=for-the-badge&logo=typescript)
 ![Node.js](https://img.shields.io/badge/Node.js-002031?style=for-the-badge&logo=nodedotjs)
 ![Docker](https://img.shields.io/badge/Docker-002031?style=for-the-badge&logo=docker)
