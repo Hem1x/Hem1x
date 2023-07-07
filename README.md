@@ -5,18 +5,23 @@ If you have any questions or proposals for collaboration, please feel free to re
 <br>
 
 ## Use
+
+### Stack
 ![Typescript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
 
+### General
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=Javascript)
 ![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-000?style=for-the-badge&logo=tailwindcss)
 
+### Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
 
+### Other
 ![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=webpack&logoColor=4285F4)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm)
