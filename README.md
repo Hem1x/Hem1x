@@ -10,8 +10,7 @@ If you have any questions or proposals for collaboration, please feel free to re
 ![Typescript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
-
-![REST API](https://img.shields.io/badge/REST API-000?style=for-the-badge&logo=restapi)
+![REST API](https://img.shields.io/badge/REST-API-000?style=for-the-badge&logo=restapi)
 
 ### General
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
