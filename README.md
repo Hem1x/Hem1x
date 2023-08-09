@@ -4,46 +4,131 @@ Hi there! My name is **Alex**, and I'm a beginner Front-End developer in React. 
 If you have any questions or proposals for collaboration, please feel free to reach out to me!
 <br>
 
-## Use
+## Skills
 
-General
+>General
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=Javascript)
-![Typescript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript)
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
-![git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
-![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm)
-![yarn](https://img.shields.io/badge/yarn-000?style=for-the-badge&logo=yarn)
-![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
+      <br>Typescript
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
+      <br>Javascript
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="html" />
+      <br>HTML5
+    </td>
+        <td align="center" width="110" height="90"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css" />
+      <br>CSS3
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
+      <br>Git
+    </td>
+    <td align="center" width="110" height="90"> 
+      <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
+      <br>npm
+    </td>
+    <td align="center" width="110" height="90"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
+      <br>yarn
+    </td>
+     <td align="center" width="110" height="90"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github"/>
+      <br>Github
+    </td>
+  </tr> 
+</table>
 
-Front-End
 
-![React JS](https://img.shields.io/badge/React&nbsp;JS-000?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
-![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-000?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
-![MUI](https://img.shields.io/badge/MUI-000?style=for-the-badge&logo=mui)
-![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite)
-![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=webpack&logoColor=4285F4)
 
-Linters
+>Front-End
 
-![ESLint](https://img.shields.io/badge/ESLint-000?style=for-the-badge&logo=eslint)
-![Stylelint](https://img.shields.io/badge/Stylelint-000?style=for-the-badge&logo=stylelint)
-![Prettier](https://img.shields.io/badge/Prettier-000?style=for-the-badge&logo=prettier)
+<table width='100%'>
+  <tr>
+   <td align="center" width="110" height="90">
+      <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
+      <br>React JS
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
+      <br>Redux
+    </td>
+  </tr> 
+  
+  <tr>
+    <td align="center" width="110" height="90"> 
+      <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
+      <br>Webpack
+    </td>
+    <td align="center" width="110" height="90"> 
+      <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
+      <br>Vite
+    </td> 
+    <td align="center" width="110" height="90">
+      <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
+      <br>Sass
+    </td>
+   <td align="center" width="110" height="90">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
+      <br>MUI
+    </td>
+  </tr> 
+</table>
+
+>Linters
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90">
+      <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
+      <br>ESLint
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
+      <br>Prettier
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="stylelint" />
+      <br>Stylelint
+    </td>
+  </tr> 
+</table>
 
 
 
 ## Learning...
-Front-End
+>Front-End
 
-![Next.js](https://img.shields.io/badge/Next.js-002031?style=for-the-badge&logo=nextdotjs)
-![MobX](https://img.shields.io/badge/MobX-002031?style=for-the-badge&logo=mobx)
-![Redux-saga](https://img.shields.io/badge/Redux&nbsp;saga-002031?style=for-the-badge&logo=reduxsaga)
-
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90">
+      <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
+      <br>Next JS
+    </td>
+    <td align="center" width="110" height="90"> 
+      <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="36" height="36" alt="Mobx" />
+      <br>Mobx
+    </td>
+  </tr> 
+</table>
 <br>
 
 ## GitHub stats
@@ -52,6 +137,3 @@ Front-End
 
 ## Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alexxAVK)
-![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)
-![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)
