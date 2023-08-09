@@ -63,9 +63,6 @@ If you have any questions or proposals for collaboration, please feel free to re
       <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
       <br>Redux
     </td>
-  </tr> 
-  
-  <tr>
     <td align="center" width="110" height="90"> 
       <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
       <br>Webpack
