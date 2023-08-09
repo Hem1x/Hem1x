@@ -131,6 +131,3 @@ If you have any questions or proposals for collaboration, please feel free to re
 ## GitHub stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hem1x&show_icons=true&theme=tokyonight)](https://github.com/Hem1x/github-readme-stats)
 <br>
-
-## Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alexxAVK)
