@@ -1,4 +1,4 @@
-## I'm a beginner Front-End developer 
+## I'm a Front-End developer 
 Hi there! My name is **Alex**, and I'm a beginner Front-End developer in React. I love building interactive web applications and experimenting with new technologies.
 
 If you have any questions or proposals for collaboration, please feel free to reach out to me!
