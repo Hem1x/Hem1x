@@ -75,6 +75,18 @@ If you have any questions or proposals for collaboration, please feel free to re
       <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
       <br>Vite
     </td> 
+  </tr> 
+</table>
+
+>Style
+
+<table width='100%'>
+  <tr>
+    </td>
+        <td align="center" width="110" height="90">
+      <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" width="36" height="36" alt="Framer Motion" />
+      <br>F Motion
+    </td>
     <td align="center" width="110" height="90">
       <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
       <br>Sass
@@ -90,6 +102,10 @@ If you have any questions or proposals for collaboration, please feel free to re
     <td align="center" width="110" height="90">
       <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
       <br>MUI
+    </td>
+      <td align="center" width="110" height="90">
+      <img src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" width="36" height="36" alt="Chakra UI" />
+      <br>Chakra UI
     </td>
   </tr> 
 </table>
@@ -113,6 +129,17 @@ If you have any questions or proposals for collaboration, please feel free to re
   </tr> 
 </table>
 
+>Backend
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90">
+      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" width="36" height="36" alt="Firebase" />
+      <br>Firebase
+    </td>
+  </tr> 
+</table>
+
 
 
 ## Learning...
@@ -120,7 +147,9 @@ If you have any questions or proposals for collaboration, please feel free to re
 
 <table width='100%'>
   <tr>
-     <td align="center" width="110" height="90">
+   <td align="center" width="110" height="90">
+      <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
+      <br>React Native
     </td>
   </tr> 
 </table>
