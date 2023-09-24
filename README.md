@@ -55,6 +55,10 @@ If you have any questions or proposals for collaboration, please feel free to re
 
 <table width='100%'>
   <tr>
+         <td align="center" width="110" height="90">
+      <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
+      <br>Next JS
+    </td>
    <td align="center" width="110" height="90">
       <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
       <br>React JS
@@ -117,8 +121,6 @@ If you have any questions or proposals for collaboration, please feel free to re
 <table width='100%'>
   <tr>
      <td align="center" width="110" height="90">
-      <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
-      <br>Next JS
     </td>
   </tr> 
 </table>
