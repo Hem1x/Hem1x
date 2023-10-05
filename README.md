@@ -151,6 +151,40 @@ If you have any questions or proposals for collaboration, please feel free to re
       <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
       <br>React Native
     </td>
+       <td align="center" width="110" height="90">
+      <img src="https://avatars.githubusercontent.com/u/8546082?s=280&v=4" width="36" height="36" alt="React" />
+      <br>i18next
+    </td>
+       <td align="center" width="110" height="90">
+      <img src="https://github.com/Hem1x/Hem1x/assets/85455447/2c2740e4-c5da-4ff9-b2a6-3550561797a7" width="36" height="36" alt="React" />
+      <br>Jest
+    </td>
+       <td align="center" width="110" height="90">
+      <img src="https://github.com/Hem1x/Hem1x/assets/85455447/fca2e00b-de8f-45d8-84ab-3e6da8df319d" width="36" height="36" alt="React" />
+      <br>Storybook
+    </td>
+       <td align="center" width="110" height="90">
+      <img src="https://github.com/Hem1x/Hem1x/assets/85455447/8937c254-5b68-44f5-aabe-620cc8eed87d" width="36" height="36" alt="React" />
+      <br>Auth0
+    </td>
+       <td align="center" width="110" height="90">
+      <img src="https://github.com/Hem1x/Hem1x/assets/85455447/e1093be1-eb1b-4fbc-aabc-8db4e99a6f34" width="36" height="36" alt="React" />
+      <br>GraphQL
+    </td>
+       <td align="center" width="110" height="90">
+      <img src="https://github.com/Hem1x/Hem1x/assets/85455447/bb7ec572-e689-41a7-9b29-4acfcfc8fb96" width="36" height="36" alt="React" />
+      <br>Websockets
+    </td>
+        </td>
+       <td align="center" width="110" height="90">
+      <img src="https://seeklogo.com/images/P/pnpm-logo-21DC828CD8-seeklogo.com.png" width="36" height="36" alt="React" />
+      <br>pnpm
+    </td>
+          </td>
+       <td align="center" width="110" height="90">
+      <img src="https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png" width="36" height="36" alt="React" />
+      <br>GitLab
+    </td>
   </tr> 
 </table>
 <br>
