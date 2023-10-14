@@ -140,6 +140,17 @@ If you have any questions or proposals for collaboration, please feel free to re
   </tr> 
 </table>
 
+>Mobile development
+<table width='100%'>
+  <tr>
+   <td align="center" width="110" height="90">
+      <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React Native" />
+      <br>React Native
+    </td>
+  </tr> 
+</table>
+
+
 
 
 ## Learning...
@@ -147,11 +158,7 @@ If you have any questions or proposals for collaboration, please feel free to re
 
 <table width='100%'>
   <tr>
-   <td align="center" width="110" height="90">
-      <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React Native" />
-      <br>React Native
-    </td>
-       <td align="center" width="110" height="90">
+    <td align="center" width="110" height="90">
       <img src="https://avatars.githubusercontent.com/u/8546082?s=280&v=4" width="36" height="36" alt="i18next" />
       <br>i18next
     </td>
