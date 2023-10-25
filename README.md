@@ -67,6 +67,11 @@ If you have any questions or proposals for collaboration, please feel free to re
       <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
       <br>Redux
     </td>
+
+<td align="center" width="110" height="90">
+      <img src="https://github.com/Hem1x/Hem1x/assets/85455447/2c2740e4-c5da-4ff9-b2a6-3550561797a7" width="36" height="36" alt="Jest" />
+      <br>Jest
+    </td>
     <td align="center" width="110" height="90"> 
       <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
       <br>Webpack
@@ -158,10 +163,6 @@ If you have any questions or proposals for collaboration, please feel free to re
 
 <table width='100%'>
   <tr>
-       <td align="center" width="110" height="90">
-      <img src="https://github.com/Hem1x/Hem1x/assets/85455447/2c2740e4-c5da-4ff9-b2a6-3550561797a7" width="36" height="36" alt="Jest" />
-      <br>Jest
-    </td>
        <td align="center" width="110" height="90">
       <img src="https://github.com/Hem1x/Hem1x/assets/85455447/fca2e00b-de8f-45d8-84ab-3e6da8df319d" width="36" height="36" alt="Storybook" />
       <br>Storybook
