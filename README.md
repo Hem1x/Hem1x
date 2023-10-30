@@ -1,5 +1,5 @@
 ## I'm a Front-End developer 
-Hi there! My name is **Alex**, and I'm a Front-End developer in React. I love building interactive web applications and experimenting with new technologies.
+Hi there! My name is **Alex**, and I'm a Front-End developer. I love building interactive web applications and experimenting with new technologies.
 
 If you have any questions or proposals for collaboration, please feel free to reach out to me!
 <br>
@@ -67,11 +67,6 @@ If you have any questions or proposals for collaboration, please feel free to re
       <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
       <br>Redux
     </td>
-
-<td align="center" width="110" height="90">
-      <img src="https://github.com/Hem1x/Hem1x/assets/85455447/2c2740e4-c5da-4ff9-b2a6-3550561797a7" width="36" height="36" alt="Jest" />
-      <br>Jest
-    </td>
     <td align="center" width="110" height="90"> 
       <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
       <br>Webpack
@@ -115,6 +110,21 @@ If you have any questions or proposals for collaboration, please feel free to re
   </tr> 
 </table>
 
+>Testing
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <img src="https://github.com/Hem1x/Hem1x/assets/85455447/2c2740e4-c5da-4ff9-b2a6-3550561797a7" width="36" height="36" alt="Jest" />
+      <br>Jest
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://testing-library.com/img/octopus-128x128.png" width="36" height="36" alt="React Testing Library" />
+      <br>RT Library
+    </td>
+  </tr> 
+</table>
+
 >Linters
 
 <table width='100%'>
@@ -150,7 +160,7 @@ If you have any questions or proposals for collaboration, please feel free to re
   <tr>
    <td align="center" width="110" height="90">
       <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React Native" />
-      <br>React Native
+      <br>Native
     </td>
   </tr> 
 </table>
