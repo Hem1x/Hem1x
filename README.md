@@ -120,7 +120,7 @@ If you have any questions or proposals for collaboration, please feel free to re
     </td>
     <td align="center" width="110" height="90">
       <img src="https://testing-library.com/img/octopus-128x128.png" width="36" height="36" alt="React Testing Library" />
-      <br>RT Library
+      <br>RTL
     </td>
   </tr> 
 </table>
