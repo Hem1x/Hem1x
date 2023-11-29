@@ -67,6 +67,10 @@ If you have any questions or proposals for collaboration, please feel free to re
       <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
       <br>Redux
     </td>
+        <td align="center" width="110" height="90">
+      <img src="https://static-00.iconduck.com/assets.00/mobx-icon-1024x1024-c9qpjcmj.png" width="36" height="36" alt="mobx" />
+      <br>MobX
+    </td>
     <td align="center" width="110" height="90"> 
       <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
       <br>Webpack
@@ -106,6 +110,11 @@ If you have any questions or proposals for collaboration, please feel free to re
       <td align="center" width="110" height="90">
       <img src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" width="36" height="36" alt="Chakra UI" />
       <br>Chakra UI
+    </td>
+      </td>
+      <td align="center" width="110" height="90">
+      <img src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" width="36" height="36" alt="ant design" />
+      <br>Ant Design
     </td>
   </tr> 
 </table>
