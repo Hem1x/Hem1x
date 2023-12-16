@@ -46,6 +46,10 @@ If you have any questions or proposals for collaboration, please feel free to re
       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github"/>
       <br>Github
     </td>
+         <td align="center" width="100" height="90"> 
+      <img src="https://github.com/Hem1x/Hem1x/assets/85455447/bd2a68f6-5ba2-4ff6-b702-2c45c6a01291" width="50" height="36" alt="docker"/>
+      <br>Docker
+    </td>
   </tr> 
 </table>
 
@@ -183,26 +187,12 @@ If you have any questions or proposals for collaboration, please feel free to re
 <table width='100%'>
   <tr>
        <td align="center" width="110" height="90">
-      <img src="https://github.com/Hem1x/Hem1x/assets/85455447/fca2e00b-de8f-45d8-84ab-3e6da8df319d" width="36" height="36" alt="Storybook" />
-      <br>Storybook
-    </td>
-       <td align="center" width="110" height="90">
       <img src="https://github.com/Hem1x/Hem1x/assets/85455447/e1093be1-eb1b-4fbc-aabc-8db4e99a6f34" width="36" height="36" alt="GraphQL" />
       <br>GraphQL
     </td>
        <td align="center" width="110" height="90">
       <img src="https://github.com/Hem1x/Hem1x/assets/85455447/bb7ec572-e689-41a7-9b29-4acfcfc8fb96" width="36" height="36" alt="Websockets" />
       <br>Websockets
-    </td>
-        </td>
-       <td align="center" width="110" height="90">
-      <img src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9iNGQ5ZGE1MTMwNjI3OWJkY2ZkZjI3ODQ0ZjQ3NWEyMz9zaXplPTEwMCZkZWZhdWx0PXJldHJvIn0.Mj4dfUWbFvlUK8HKjo8-yaJjlN28gLKuM99HtGiBxQ0" width="36" height="36" alt="pnpm" />
-      <br>pnpm
-    </td>
-          </td>
-       <td align="center" width="110" height="90">
-      <img src="https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png" width="36" height="36" alt="GitLab" />
-      <br>GitLab
     </td>
   </tr> 
 </table>
