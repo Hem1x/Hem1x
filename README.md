@@ -179,25 +179,6 @@ If you have any questions or proposals for collaboration, please feel free to re
 </table>
 
 
-
-
-## Learning...
->Front-End
-
-<table width='100%'>
-  <tr>
-       <td align="center" width="110" height="90">
-      <img src="https://github.com/Hem1x/Hem1x/assets/85455447/e1093be1-eb1b-4fbc-aabc-8db4e99a6f34" width="36" height="36" alt="GraphQL" />
-      <br>GraphQL
-    </td>
-       <td align="center" width="110" height="90">
-      <img src="https://github.com/Hem1x/Hem1x/assets/85455447/bb7ec572-e689-41a7-9b29-4acfcfc8fb96" width="36" height="36" alt="Websockets" />
-      <br>Websockets
-    </td>
-  </tr> 
-</table>
-<br>
-
 ## GitHub stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hem1x&show_icons=true&theme=tokyonight)](https://github.com/Hem1x/github-readme-stats)
 <br>
