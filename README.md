@@ -27,20 +27,8 @@ If you have any questions or proposals for collaboration, please feel free to re
       <br>CSS3
     </td>
     <td align="center" width="110" height="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="110" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
       <br>Git
-    </td>
-    <td align="center" width="110" height="90"> 
-      <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
-      <br>npm
-    </td>
-    <td align="center" width="110" height="90"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
-      <br>yarn
     </td>
      <td align="center" width="110" height="90"> 
       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github"/>
@@ -164,6 +152,14 @@ If you have any questions or proposals for collaboration, please feel free to re
      <td align="center" width="110" height="90">
       <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" width="36" height="36" alt="Firebase" />
       <br>Firebase
+    </td>
+         <td align="center" width="110" height="90">
+      <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="36" height="36" alt="Firebase" />
+      <br>NodeJS
+    </td>
+         <td align="center" width="110" height="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="Firebase" />
+      <br>GraphQL
     </td>
   </tr> 
 </table>
