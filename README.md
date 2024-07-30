@@ -1,7 +1,7 @@
 ## I'm a Front-End developer 
 Hi there! My name is **Alex**, and I'm a Front-End developer. I love building interactive web applications and experimenting with new technologies.
 
-If you have any questions or proposals for collaboration, please feel free to reach out to me!
+If you have any questions or proposals for collaboration, feel free to reach out to me!
 <br>
 
 ## Skills
@@ -48,7 +48,7 @@ If you have any questions or proposals for collaboration, please feel free to re
 <table width='100%'>
   <tr>
          <td align="center" width="110" height="90">
-      <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
+      <img src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" width="36" height="36" alt="Next JS" />
       <br>Next JS
     </td>
    <td align="center" width="110" height="90">
@@ -79,16 +79,12 @@ If you have any questions or proposals for collaboration, please feel free to re
 <table width='100%'>
   <tr>
     </td>
-        <td align="center" width="110" height="90">
-      <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" width="36" height="36" alt="Framer Motion" />
-      <br>F Motion
-    </td>
     <td align="center" width="110" height="90">
       <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
       <br>Sass
     </td>
    <td align="center" width="110" height="90">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
+        <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="36" height="36" alt="Tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="110" height="90">
